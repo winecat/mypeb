@@ -134,4 +134,4 @@ Regarding the session save handler code, I would like to port it into the mypeb 
 
 As a final step I would like to do a small clean up to the API of the mypeb extension.
 
-Article Taken from: [http://obvioushints.blogspot.com/2009/12/erlang-as-session-storage-for-php.html] http://obvioushints.blogspot.com/2009/12/erlang-as-session-storage-for-php.html
+Article Taken from: [http://obvioushints.blogspot.com/2009/12/erlang-as-session-storage-for-php.html]
